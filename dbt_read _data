@@ -1,0 +1,1 @@
+select * from our_first_db.public.international
